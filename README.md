@@ -30,5 +30,5 @@ In digital communication, pulse shaping and matched filtering are essential for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/pulse-shaping-matched-filter.git
+   git clone https://github.com/hassansaker/BaseBand-system-using-srrc.git
    cd pulse-shaping-matched-filter
